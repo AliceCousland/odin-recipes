@@ -1,13 +1,22 @@
+/* Main Header */
 #title {
-    color: rgba(11, 190, 11, 0.603);
+    color: rgba(255, 255, 255, 0.603) ;
     background-color: rgba(95, 6, 122, 0.808);
-    text-decoration: none !important;
+    text-decoration: none ;
     text-align: center;
     font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
 }
 
-body {
+body,h1,h3,h4,h5,h6 {
     background-color: rgb(112, 202, 112);
+    color: rgba(3, 61, 3, 0.582);
+    font-size: 1.3rem;
+    text-align: center;
+}
+
+ul, ol {
+    text-align: left;
 }
 
 img {
