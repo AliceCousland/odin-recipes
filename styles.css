@@ -1,12 +1,17 @@
 #title {
-    color: rgba(4, 82, 4, 0.603);
-    background-color: rgb(112, 202, 112);
+    color: rgba(11, 190, 11, 0.603);
+    background-color: rgba(95, 6, 122, 0.808);
     text-decoration: none !important;
     text-align: center;
     font-weight: bold;
+}
+
+body {
+    background-color: rgb(112, 202, 112);
 }
 
 img {
     height: 100px;
     width: 200px;
 }
+
