@@ -32,7 +32,6 @@ body {
 }
 
 .flex-container span {
-    background: purple;
     border: 4px solid rgba(3, 61, 3, 0.582);
     height: 500;
     flex: 1;
@@ -58,4 +57,5 @@ ul, ol {
 img {
     height: 150px;
     width: 250px;
+    align-items:baseline
 }
