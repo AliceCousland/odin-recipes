@@ -15,7 +15,11 @@
     margin-left: 50px;
     margin-right: 50px;
     margin-top: -20px;
-
+}
+/* allows img + links to be on the same plane */
+.name {
+    display: inline-block;
+    writing-mode:horizontal-tb;
 }
 
 body,h1,h3,h4,h5,h6 {
@@ -34,5 +38,4 @@ ul, ol {
 img {
     height: 150px;
     width: 250px;
-    margin: -20px;
 }
