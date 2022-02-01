@@ -20,6 +20,7 @@
 .name {
     display: inline-block;
     writing-mode:horizontal-tb;
+    margin-top: 50px;
 }
 
 body,h1,h3,h4,h5,h6 {
